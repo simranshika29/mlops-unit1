@@ -9,3 +9,5 @@ print(data.columns)
 
 print("\nBasic statistics:")
 print(data.describe())
+print("\nFirst 5 rows:")
+print(data.head())
